@@ -62,3 +62,15 @@ I’m Samin, an undergraduate student at Daffodil International University, curr
   </a>
 </p>
 
+<h2>Daily Dev Quote</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+
+<h2>GitHub Trophies</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sam-64bit&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<h2>Profile Views</h2>
+
+<img src="https://komarev.com/ghpvc/?username=sam-64bit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
